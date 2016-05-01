@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
-
+// Here is a new comment
 /**
  * A login screen that offers login via email/password.
  */
